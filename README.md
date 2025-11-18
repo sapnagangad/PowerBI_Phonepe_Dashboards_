@@ -45,16 +45,14 @@ This project presents an **interactive Power BI dashboard** built using PhonePeâ
 
 ## Dashboards
 1. **Dashboard 1**
-![Dashboard](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/Pictures/Dashboard.png)
+![Dashboard](https://github.com/sapnagangad/PowerBI_Phonepe_Dashboards_/blob/main/Dashboards/Dashboard%204.jpg)
 
 2. **Dashboard 2**
-![Dashboard](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/Pictures/Dashboard.png)
+![Dashboard](https://github.com/sapnagangad/PowerBI_Phonepe_Dashboards_/blob/main/Dashboards/Dashboard%202.jpg)
 
 3. **Dashboard 3**
-![Dashboard](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/Pictures/Dashboard.png)
+![Dashboard]()
 
-4. **Dashboard 4**
-![Dashboard](https://github.com/sapnagangad/Hotel_Booking_Analysis/blob/main/Pictures/Dashboard.png)
 ---
 
 ## ðŸ“ˆ Key Insights Provided
