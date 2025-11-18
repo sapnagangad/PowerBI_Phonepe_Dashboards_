@@ -1,4 +1,4 @@
-#📊 PhonePe Analytics Dashboard
+##📊 PhonePe Analytics Dashboard
 
 This project presents an interactive Power BI dashboard built using PhonePe’s user and transaction datasets. It highlights key insights on user behavior, retention, service usage, and transaction trends across multiple services such as Recharge & Bills, Money Transfer, Loans, and Insurance.
 
