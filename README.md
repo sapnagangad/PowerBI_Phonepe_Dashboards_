@@ -2,7 +2,7 @@
 
 This project presents an **interactive Power BI dashboard** built using PhonePe’s user and transaction datasets. It highlights key insights on **user behavior, retention, service usage, and transaction trends** across multiple services such as Recharge & Bills, Money Transfer, Loans, and Insurance.
 
-![Dashboard Preview](https://bfsi.eletsonline.com/wp-content/uploads/2019/10/Phonepay.jpg)
+![Dashboard Preview](https://th.bing.com/th/id/OIP.0haYF_r_gaPbHlPJCH9veQHaEK?w=320&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3)
 
 ---
 
