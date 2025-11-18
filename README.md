@@ -51,7 +51,7 @@ This project presents an **interactive Power BI dashboard** built using PhonePeâ
 ![Dashboard](https://github.com/sapnagangad/PowerBI_Phonepe_Dashboards_/blob/main/Dashboards/Dashboard%202.jpg)
 
 3. **Dashboard 3**
-![Dashboard]()
+![Dashboard](https://github.com/sapnagangad/PowerBI_Phonepe_Dashboards_/blob/main/Dashboards/Dashboard%203.jpg)
 
 ---
 
